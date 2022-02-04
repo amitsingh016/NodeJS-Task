@@ -5,7 +5,12 @@
 1. Setup or use your rabbitmq server and change the credentials in .env file in both the services.
 2. Change smtp details in .env file as I left the credentials there as it is testing smtp details.
 3. Import accubits.sql file in MySql Database and change credentials accordingly in .env file.
-4. Install node_modules using (npm install) command in both the services folder in serviceA and ServiceB.
+4. Install node_modules using below command in both the services folder in serviceA and ServiceB.
+
+   ```console
+   $ npm install
+   ```
+
 5. Start you create user api server by below command
 
    ```console
