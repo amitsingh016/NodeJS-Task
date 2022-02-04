@@ -35,3 +35,5 @@
    ```console
    $ npm run start
    ```
+
+   Note : Here I have not used csv file as I didn't get the point completely.
