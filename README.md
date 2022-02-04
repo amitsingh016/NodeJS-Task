@@ -8,7 +8,9 @@
 4. Install node_modules using (npm install) command in both the services folder in serviceA and ServiceB.
 5. Start you create user api server by below command
 
-   command : npm run start
+   ```console
+   $ npm run start
+   ```
 
    URL of post api create user : http://localhost:5000/create-user
 
@@ -23,6 +25,8 @@
     }
     ```
 
-    Next start your consumer serivce by below command.
+    Next start your consumer serivce by below command and leave the server as it is.
 
-    command : npm run start
+   ```console
+   $ npm run start
+   ```
